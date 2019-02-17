@@ -9,6 +9,7 @@ next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 title: Creating a New Theme
 weight: 10
+series: Hugo 101
 ---
 
 
@@ -28,7 +29,7 @@ $ echo this is a command
 this is a command
 
 ## edit the file
-$vi foo.md
+$ vi foo.md
 +++
 date = "2014-09-28"
 title = "creating a new theme"

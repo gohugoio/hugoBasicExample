@@ -1,11 +1,12 @@
-baseurl = "http://hugo.spf13.com/"
+baseurl = "https://gohugo.io/"
 title = "Hugo Themes"
 author = "Steve Francia"
-copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
+copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 canonifyurls = true
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
+
 [languages.en]
 languageName = "English"
 weight = 1
@@ -15,4 +16,3 @@ title = "Hugo Themes"
 languageName = "Français"
 weight = 2
 title = "Thèmes Hugo"
-
