@@ -8,7 +8,6 @@ featuredpath = "date"
 linktitle = ""
 title = "Création d'un nouveau thème"
 slug = "Creation d'un nouveau theme"
-type = "post"
 +++
 
 ## Introduction

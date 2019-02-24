@@ -4,9 +4,7 @@ author:
 date: 2014-03-10
 linktitle: Migrating from Jekyll
 title: Migrate to Hugo from Jekyll
-type:
-- post 
-- posts
+type: posts
 weight: 10
 series:
 - Hugo 101
