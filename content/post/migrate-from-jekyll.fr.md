@@ -9,8 +9,7 @@ linktitle = ""
 slug = "Migrer vers Hugo depuis Jekyll"
 title = "Migrer vers Hugo depuis Jekyll"
 type = "posts"
-[ author ]
-  name = "Hugo Authors"
+author = "Hugo Auteurs"
 +++
 
 ## Déplacez le contenu statique vers `static`
