@@ -5,6 +5,10 @@ linktitle: Migrating from Jekyll
 title: Migrate to Hugo from Jekyll
 type: posts
 weight: 10
+tags:
+- migrate
+- hugo
+-jekyll
 series:
 - Hugo 101
 aliases:
