@@ -130,8 +130,8 @@ html
 #### Nested list
 
 * Item
-1. First Sub-item
-2. Second Sub-item
+  1. First Sub-item
+  2. Second Sub-item
 
 ## Miscellaneous `HTML` Tags — `abbr`, `sub`, `sup`, `kbd`, `mark`
 
