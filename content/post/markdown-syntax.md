@@ -7,7 +7,6 @@ tags = [
     "markdown",
     "css",
     "html",
-    "themes",
 ]
 categories = [
     "themes",
