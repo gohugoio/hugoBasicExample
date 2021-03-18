@@ -1,6 +1,5 @@
 baseURL = "https://gohugo.io"
 title = "Hugo Themes"
-author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 3
 languageCode = "en"
@@ -9,6 +8,10 @@ enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
+
+[author]
+  name = "Steve Francia"
+  email = "steve.francia@example.com"
 
 [menu]
 
